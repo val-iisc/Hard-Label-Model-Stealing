@@ -3,7 +3,7 @@
 Sunandini Sanyal, Sravanti Addepalli, R. Venkatesh Babu
 
 Video Analytics Lab, Indian Institute of Science, Bengaluru
-<<<<<<< HEAD
+
 
 ### [[Project Page]](https://sites.google.com/view/dfms-hl) [[Paper]]()
 
